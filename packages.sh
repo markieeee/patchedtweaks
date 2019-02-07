@@ -1,2 +1,2 @@
 
-  dpkg-deb -bZgzip projects/melior debs
+  dpkg-deb projects/melior debs

@@ -1,0 +1,12 @@
+Package: com.spark.melior
+Name: Melior [Public]
+Depends: mobilesubstrate, preferenceloader
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Architecture: iphoneos-arm
+Description: Custom volume HUD
+Depiction: https://member.sparkservers.co.uk/Depictions/Depiction?productName=Melior
+Maintainer: Spark
+Author: Spark & Dennis Bednarz
+Section: Tweaks
+Version: 1.0.6-1
+Installed-Size: 844

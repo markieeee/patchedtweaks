@@ -1,5 +1,5 @@
-Package: com.spark.melior
-Name: Melior [Public]
+Package: com.marcus.noctis
+Name: Noctis [Public]
 Depends: mobilesubstrate, preferenceloader
 Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
 Architecture: iphoneos-arm

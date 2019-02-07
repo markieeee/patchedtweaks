@@ -1,0 +1,14 @@
+
+Author: Noah Saso <noahsaso@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: cylinder
+Package: com.sassoty.goodwifi
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), preferenceloader
+Section: Tweaks
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Installed-Size: 144
+Description: Pull down in Settings to respring
+dev: sassoty
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceLoader/Preferences/PullToRespring@2x.png

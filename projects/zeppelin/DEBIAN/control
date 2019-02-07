@@ -1,0 +1,14 @@
+Package: com.alexzielenski.zeppelin
+Name: Zeppelin
+Icon: http://i.imgur.com/tvLxnB5.png
+Version: 2.1.0-12
+Architecture: iphoneos-arm
+Author: Alex Zielenski <support@alexzielenski.com>
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
+Depiction: http://modmyi.com/info/zeppelin.d.php
+Priority: extra
+Section: Tweaks
+Description: Replaces carrier text with an image!
+Homepage: http://modmyi.com/info/zeppelin.php
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
